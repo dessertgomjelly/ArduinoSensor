@@ -1,17 +1,18 @@
 # 🫥 <Smart Shoes Care>  <IOT 센서>
 아두이노를 활용한 스마트 슈케어 프로젝트
 
-<br>
-
-## 📽️배경
-- ### 개발 목적 및 필요성
-
-
+[프로젝트 과정 바로가기](https://github.com/dessertgomjelly/ArduinoSensor/blob/master/IOT%20(Smart%20Shoes%20Care).pdf)
 
 <br>
+<br>
 
+## 결과물
+<img width="884" alt="스크린샷 2024-07-25 오전 10 36 40" src="https://github.com/user-attachments/assets/68d17149-ad40-4c4c-9ef9-b02decc13a86">
 
-  
-<img width="536" alt="image" src="https://github.com/dessertgomjelly/ArduinoSensor/assets/127851446/77010bd6-8d47-478a-8be5-96c8bffaa686">
-<img width="544" alt="image" src="https://github.com/dessertgomjelly/ArduinoSensor/assets/127851446/e753a171-be6a-4bbd-91b1-663523cae752">
-<img width="452" alt="image" src="https://github.com/dessertgomjelly/ArduinoSensor/assets/127851446/f5b37a4f-25c7-453e-bdeb-677fd06b1ba1">
+<br>
+<br>
+<br>
+
+## 기능 
+<img width="876" alt="스크린샷 2024-07-25 오전 10 36 56" src="https://github.com/user-attachments/assets/e5c9ec0d-8849-4b9b-8045-c14852240c68">
+
